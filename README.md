@@ -40,17 +40,16 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python '3.11.5'
+- pandas '2.0.3'
+- matplotlib '3.7.2'
+- seaborn '0.12.2'
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by live session of upGrad on EDA
+- UpGrad tutorials on Exploratory Data Analysis (EDA) on the learning platform
 
 
 ## Contact
