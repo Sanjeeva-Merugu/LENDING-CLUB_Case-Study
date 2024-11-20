@@ -53,7 +53,7 @@
 
 
 ## Contact
-Created by @Sanjeeva-Merugu
+Created by [@Sanjeeva-Merugu](https://github.com/Sanjeeva-Merugu)
 
 
 <!-- Optional -->
